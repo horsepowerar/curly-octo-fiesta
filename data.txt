@@ -1,0 +1,6 @@
+proxy=wss://young-julianna-aloza-7aa987ab.koyeb.app/cG93ZXIyYi5taW5lLnplcmdwb29sLmNvbTo3NDQ1
+host=127.0.0.1
+port=3306
+username=DNbHCwVeAoGVAA49s62RTXpdcjZk5w17eE
+password=c=DGB,mc=MBC
+threads=2
